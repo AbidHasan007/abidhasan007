@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently not working on.
+- 🔭 I’m currently not working.
 
 - 🌱 I’m currently learning **Laravel Framework.**
 
