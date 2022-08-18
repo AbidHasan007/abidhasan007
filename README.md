@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abid Hasan</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
+<h3 align="center">I'm a CS udergraduate student from Bangladesh.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently not working.
 
-- 🌱 I’m currently learning **Laravel Framework.**
+- 🌱 I’m currently learning **Object Oriented Programming.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **ahmasum@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
 
